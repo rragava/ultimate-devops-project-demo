@@ -43,3 +43,7 @@ const sdk = new opentelemetry.NodeSDK({
 })
 
 sdk.start();
+
+
+
+
